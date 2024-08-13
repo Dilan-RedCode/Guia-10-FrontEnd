@@ -10,15 +10,25 @@ function App() {
         <p>
           Owl
         </p>
-        <a></a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <table class="creador">
+          <th>
+            Proyecto Creado Por:
+            <tr>Nombres:
+              <td>Dilan Alejandro</td>
+            </tr>
+            <tr>Apellidos: 
+              <td>Chaverra Ceballos</td>
+            </tr>
+            <tr>Correo: 
+              <td>dilanchaverra1@gmail.com</td>
+            </tr>
+            <tr>Celular: 
+              <td>3117074441</td>
+            </tr>
+          </th>
+
+        </table>
+
       </header>
     </div>
   );
